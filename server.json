@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.github.semilattice-research/mcp",
+  "title": "Semilattice - audience prediction",
+  "websiteUrl": "https://semilattice.ai",
+  "description": "Semilattice lets agents make predictions about audiences for content testing and decision making.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.semilattice.ai"
+    }
+  ]
+}
