@@ -1,8 +1,28 @@
 # Semilattice MCP
 
-Semilattice gives agents the ability to predict how specific audiences answer questions. Use it to test content, personalise features, and A/B test decisions.
+The user simulation layer for agentic marketing, product and design work.
+Semilattice gives you and your agents accurate user feedback in minutes, with
+state-of-the-art models built from real human data. Fix slop and optimise your work
+before users see it.
 
-![Screenshot of an LLM interface with the user asking the LLM to use Semilattice to predict "if developers foresee AGI in the next 10 years". The LLM uses the Semilattice MCP to "list population models", finds a Developer audience model, and then proceeds to use that model to predict the answer to the user's question.](mcp.png)
+## What you can ask your agent
+
+- "Come up with a name for our new business account."
+- "We have three versions of the free-trial signup. Which one do we ship?"
+- "Write the one line under our Pro price that gets free users to upgrade."
+- "Write the subject line and opening of the email announcing our new feature."
+- "Which launch offer do we run: six months free, £100 to switch, or free international payments?"
+- "Set the monthly price for our first paid plan."
+
+The agent writes the work, tests it on simulated users, and fixes what they push back
+on. Each answer comes from a user model: a specific target audience, simulated as
+hundreds of individual respondents and built from real human data. The first public
+user models are US and UK Consumer Finance and US and UK Online Shoppers, with more to
+come.
+
+**Using Claude?** Add the Semilattice plugin from the Claude directory. It bundles this
+server with a skill that turns a brief, PRD or spec into tests
+([semilattice-research/claude-plugin](https://github.com/semilattice-research/claude-plugin)).
 
 ## URL
 The Semilattice MCP is a remote server accessible over **Streamable HTTP**. The URL is:
