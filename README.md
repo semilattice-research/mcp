@@ -17,8 +17,8 @@ before users see it.
 The agent writes the work, tests it on simulated users, and fixes what they push back
 on. Each answer comes from a user model: a specific target audience, simulated as
 hundreds of individual respondents and built from real human data. The first public
-user models are US and UK Consumer Finance and US and UK Online Shoppers, with more to
-come.
+user models, US and UK Consumer Finance and US and UK Online Shoppers, are coming
+soon, with more to follow.
 
 **Using Claude?** Add the Semilattice plugin from the Claude directory. It bundles this
 server with a skill that turns a brief, PRD or spec into tests
