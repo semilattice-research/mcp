@@ -34,8 +34,8 @@ https://mcp.semilattice.ai
 ```
 ## Connect your client
 
-Step-by-step instructions for Claude, Claude Code, Cursor, ChatGPT, VS Code, Codex,
-Gemini CLI, Cline, goose, LibreChat and Cherry Studio are in the docs:
+Step-by-step instructions for Claude, Claude Code, Cursor, ChatGPT, Antigravity,
+VS Code, Codex, Gemini CLI, Cline, goose, LibreChat and Cherry Studio are in the docs:
 https://docs.semilattice.ai/mcp/connect
 
 Any client that supports remote MCP servers over Streamable HTTP with OAuth should
