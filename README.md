@@ -1,5 +1,7 @@
 # Semilattice MCP
 
+[![Semilattice MCP connector](https://glama.ai/mcp/connectors/io.github.semilattice-research/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.semilattice-research/mcp)
+
 The user simulation layer for agentic marketing, product and design work.
 Semilattice gives you and your agents accurate user feedback in minutes, with
 state-of-the-art models built from real human data. Fix slop and optimise your work
